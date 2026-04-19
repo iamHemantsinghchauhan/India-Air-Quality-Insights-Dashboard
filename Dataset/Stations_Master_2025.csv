@@ -1,0 +1,41 @@
+station_id,station_name,city,state,latitude,longitude
+1,Delhi_Station_1,Delhi,Delhi,15.4908,87.2114
+2,Delhi_Station_2,Delhi,Delhi,22.6399,81.5785
+3,Delhi_Station_3,Delhi,Delhi,11.1204,74.4959
+4,Delhi_Station_4,Delhi,Delhi,9.1617,85.8588
+5,Delhi_Station_5,Delhi,Delhi,20.0223,83.3292
+6,Mumbai_Station_1,Mumbai,Maharashtra,8.4117,87.5186
+7,Mumbai_Station_2,Mumbai,Maharashtra,24.6489,75.3974
+8,Mumbai_Station_3,Mumbai,Maharashtra,11.6365,74.9345
+9,Mumbai_Station_4,Mumbai,Maharashtra,14.0848,80.3961
+10,Mumbai_Station_5,Mumbai,Maharashtra,16.6389,76.6597
+11,Bengaluru_Station_1,Bengaluru,Karnataka,20.2371,74.2319
+12,Bengaluru_Station_2,Bengaluru,Karnataka,13.8429,77.8618
+13,Bengaluru_Station_3,Bengaluru,Karnataka,17.1214,84.5628
+14,Bengaluru_Station_4,Bengaluru,Karnataka,11.9935,80.2278
+15,Bengaluru_Station_5,Bengaluru,Karnataka,19.8483,72.7432
+16,Kolkata_Station_1,Kolkata,West Bengal,20.1509,74.7284
+17,Kolkata_Station_2,Kolkata,West Bengal,9.301,87.1822
+18,Kolkata_Station_3,Kolkata,West Bengal,27.3126,84.9344
+19,Kolkata_Station_4,Kolkata,West Bengal,14.0923,73.5628
+20,Kolkata_Station_5,Kolkata,West Bengal,21.6847,79.0424
+21,Chennai_Station_1,Chennai,Tamil Nadu,10.4408,79.9228
+22,Chennai_Station_2,Chennai,Tamil Nadu,8.6878,86.5491
+23,Chennai_Station_3,Chennai,Tamil Nadu,13.1756,82.6004
+24,Chennai_Station_4,Chennai,Tamil Nadu,14.2342,80.3211
+25,Chennai_Station_5,Chennai,Tamil Nadu,18.9342,74.9577
+26,Hyderabad_Station_1,Hyderabad,Telangana,27.3917,84.4021
+27,Hyderabad_Station_2,Hyderabad,Telangana,26.79,86.3172
+28,Hyderabad_Station_3,Hyderabad,Telangana,19.958,86.75
+29,Hyderabad_Station_4,Hyderabad,Telangana,9.7699,75.1357
+30,Hyderabad_Station_5,Hyderabad,Telangana,8.9045,77.2053
+31,Pune_Station_1,Pune,Maharashtra,15.7735,76.3416
+32,Pune_Station_2,Pune,Maharashtra,24.5748,77.7081
+33,Pune_Station_3,Pune,Maharashtra,13.6187,80.6831
+34,Pune_Station_4,Pune,Maharashtra,10.8185,84.8352
+35,Pune_Station_5,Pune,Maharashtra,9.491,87.7902
+36,Ahmedabad_Station_1,Ahmedabad,Gujarat,23.4449,75.1795
+37,Ahmedabad_Station_2,Ahmedabad,Gujarat,8.1104,85.0474
+38,Ahmedabad_Station_3,Ahmedabad,Gujarat,22.1371,83.6641
+39,Ahmedabad_Station_4,Ahmedabad,Gujarat,23.4254,73.1847
+40,Ahmedabad_Station_5,Ahmedabad,Gujarat,15.1693,73.8539
