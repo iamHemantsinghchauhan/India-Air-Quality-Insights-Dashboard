@@ -1,8 +1,9 @@
-<!-- AQI Logo -->
+<!-- Premium AQI Logo -->
 <p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/external-air-pollution-ecology-flatart-icons-outline-flatarticons.png" width="90"/>
+  <img src="https://img.icons8.com/fluency/96/wind.png" width="90"/>
 </p>
-<h1 align="center">🌍 India Air Quality Intelligence Dashboard</h1>
+
+<h1 align="center">🇮🇳🌍 India Air Quality Intelligence Dashboard</h1>
 
 <p align="center">
   🚀 Turning environmental data into actionable insights using Tableau
@@ -63,8 +64,6 @@ To analyze air quality data and provide insights into:
 
 ---
 
----
-
 ## 💼 Business Impact  
 
 - 🌍 Supports environmental monitoring and awareness  
@@ -87,5 +86,3 @@ To analyze air quality data and provide insights into:
 ## 👤 Author  
 
 **Hemant**  
-
-
