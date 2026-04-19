@@ -1,6 +1,6 @@
 <!-- AQI Logo -->
 <p align="center">
-  <img src="https://img.icons8.com/color/96/air-quality.png" width="80"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/external-air-pollution-ecology-flatart-icons-outline-flatarticons.png" width="90"/>
 </p>
 
 <h1 align="center">🌍 India Air Quality Intelligence Dashboard</h1>
@@ -12,7 +12,7 @@
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview](assets/India-Air-Quality-Insights-Dashboard.png)
+![Dashboard Preview](Snapshot/India-Air-Quality-Insights-Dashboard.png)
 
 ---
 
