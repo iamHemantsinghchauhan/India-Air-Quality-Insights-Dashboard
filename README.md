@@ -12,7 +12,7 @@
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview](Snapshot/India-Air-Quality-Insights-Dashboard.png)
+![Dashboard Preview](Snapshot/India-Air-Quality-Insights-Dashboard(2).png)
 
 ---
 
